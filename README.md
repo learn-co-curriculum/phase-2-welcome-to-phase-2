@@ -13,8 +13,8 @@ events, and make network requests. In this phase, you'll be introduced to the
 most popular frontend library of the last several years: React.
 
 React itself is written in JavaScript as a tool for JavaScript developers, so
-all the fundamentals you learned &mdash; working with functions; manipulating
-arrays; and dealing with complex objects &mdash; are going to be crucial to your
+all the fundamentals you learned — working with functions; manipulating
+arrays; and dealing with complex objects — are going to be crucial to your
 success with React.
 
 What you'll get in return is a library that does a lot of the heavy lifting in
