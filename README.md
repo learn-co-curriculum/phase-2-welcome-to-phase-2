@@ -68,7 +68,7 @@ that your components can use. By the end of this module, you'll have covered all
 the core React fundamentals and will be able to make a single-page application
 in React.
 
-### [Optional] React Under the Hook
+### [Optional] React Under the Hood
 
 In this optional module, you'll learn a bit more about the tools that help
 React do its job, like Babel and webpack. You'll also learn about the process of
